@@ -1,21 +1,26 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="searchOverloadedMethods" value="true" />
-    <option name="showResultsInSeparateView" value="true" />
-    <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.soy</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="Directory '... [gitx-playground]'" />
+    <option name="defaultScopeName" value="Directory '... [gitx-playground]'" />
+    <option name="SEARCH_SCOPE" value="Directory '... [gitx-playground]'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.mxm</mask>
+      <mask>*.mx</mask>
+      <mask>*.m</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.ja</mask>
+      <mask>*.jaba</mask>
+      <mask>*.jab</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
   </component>
 </application>
