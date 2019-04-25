@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '... [gitx-playground]'" />
-    <option name="defaultScopeName" value="Directory '... [gitx-playground]'" />
-    <option name="SEARCH_SCOPE" value="Directory '... [gitx-playground]'" />
+    <option name="customScope" value="Project 'gitx-playground'" />
+    <option name="defaultScopeName" value="Project 'gitx-playground'" />
+    <option name="SEARCH_SCOPE" value="Project 'gitx-playground'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
