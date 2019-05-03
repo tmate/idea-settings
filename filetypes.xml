@@ -4,7 +4,6 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
-      <mapping ext="soy" type="PLAIN_TEXT" />
       <mapping ext="less" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
