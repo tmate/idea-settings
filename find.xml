@@ -1,26 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'gitx-playground'" />
-    <option name="defaultScopeName" value="Project 'gitx-playground'" />
-    <option name="SEARCH_SCOPE" value="Project 'gitx-playground'" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.mxm</mask>
-      <mask>*.mx</mask>
-      <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jaba</mask>
-      <mask>*.jab</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
